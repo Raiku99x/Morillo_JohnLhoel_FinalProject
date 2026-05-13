@@ -1,0 +1,20 @@
+[
+  {
+    "subject": "Data Structures",
+    "description": "Activity 4",
+    "due_date": "2026-05-12",
+    "is_done": true
+  },
+  {
+    "subject": "Math",
+    "description": "Quiz 3",
+    "due_date": "2026-05-18",
+    "is_done": false
+  },
+  {
+    "subject": "Contemporary World",
+    "description": "Activity 3",
+    "due_date": "2026-05-22",
+    "is_done": false
+  }
+]
